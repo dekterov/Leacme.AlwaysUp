@@ -4,8 +4,8 @@
 
 This application features the ability to always point in the direction of opposite your device's gravity sensor potentially assisting in finding orientation.
 
-![index](https://user-images.githubusercontent.com/6654513/71701622-e12ed880-2d87-11ea-9dd7-6e5d6d5fe740.png)
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71701622-e12ed880-2d87-11ea-9dd7-6e5d6d5fe740.png)
 
 ## Application Compiling
 
